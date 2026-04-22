@@ -1,0 +1,6 @@
+# Vídeos originais DJI ficam apenas local (acima do limite GitHub de 100MB)
+*.mov
+
+# Sistema
+.DS_Store
+Thumbs.db
